@@ -102,7 +102,6 @@ This project focuses on end-to-end testing of the OrangeHRM demo website, coveri
       - Cypress
       - JavaScript
       - Node.js
-      - Mocha
 
 ### 🔹 ***Installation Steps***
 
@@ -114,10 +113,6 @@ This project focuses on end-to-end testing of the OrangeHRM demo website, coveri
     - Cypress installation
   
     ```npm install cypress --save-dev```
-   
-     - Cucumber installation
-       
-     ```npm install @badeball/cypress-cucumber-preprocessor --save-dev```
 
 3. Run Cypress UI mode:
    
@@ -158,11 +153,6 @@ This project focuses on end-to-end testing of the OrangeHRM demo website, coveri
     - Holds reusable classes representing web pages
   - support:
       - Custom commands and reusable functions
-  - cucumber:
-     - /features:
-       - Contains feature files for BDD
-    - /stepDefinitions:
-       - Holds step definitions corresponding to feature files
      
   ### 🔥 ***Test Execution***
   
@@ -175,7 +165,7 @@ This project focuses on end-to-end testing of the OrangeHRM demo website, coveri
 - Locators:
     - get(), contains(), and custom selectors
 - Assertions:
-    - BDD-style (should(), expect())
+    - BDD-style (should())
 - Custom Commands:
     - Reusable login and navigation functions
 - Hooks:
