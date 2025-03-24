@@ -131,26 +131,25 @@ This project focuses on end-to-end testing of the OrangeHRM demo website, coveri
 ### 🛠️ ***Project Structure***
 
     📂 OrangeHRM-Cypress-Project
-    │
-    ├── 📁 cypress
-    │   ├── 📁 e2e
-    │   │   ├── login.cy.js
-    │   │   ├── dashboard.cy.js
-    │   │   ├── pim.cy.js
-    │   │   ├── leave.cy.js
-    │   │   └── admin.cy.js
-    │   │
-    │   ├── 📁 support
-    │   │   ├── commands.js
-    │   │   └── e2e.js
-    │   │
-    │   └── 📁 pageObjects
-    │       ├── loginPage.js
-    │       ├── dashboardPage.js
-    │       ├── pimPage.js
-    │       └── leavePage.js
-    │
-    └── cypress.config.js
+      │
+      ├── 📁 cypress
+      │   ├── 📁 e2e
+      │   │   └── orangeHRMTest.cy.js
+      │   │
+      │   ├── 📁 support
+      │   │   ├── commands.js
+      │   │   └── e2e.js
+      │   │
+      │   └── 📁 pageObjects
+      │       ├── loginPage.js
+      │       ├── dashboardPage.js
+      │       ├── pimPage.js
+      │       ├── leavePage.js
+      │       ├── adminPage.js
+      │       ├── timePage.js
+      │       └── navigationPage.js
+      │
+      └── cypress.config.js
 
 ### 🔹 ***Explanation***
   - e2e:
