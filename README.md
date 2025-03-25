@@ -92,6 +92,15 @@ This project focuses on end-to-end testing of the OrangeHRM demo website, coveri
     - Total test cases
     - Defects by severity
     - Module-level pass/fail status
+ 
+### 📘 ***Documents***
+1. [Test Plan](https://docs.google.com/document/d/1jW2MNoxhKw3z4FhTaYVMKSVonxVsAUHttTfZng54I4E/edit?usp=drive_link)
+2. [Test Plan- X-MindMap](https://drive.google.com/file/d/1y8ESogtrtCn1ZGOnqVlDYYrG-tm4CzT5/view?usp=drive_link)
+3. [Requirements Traceability Matrix](https://docs.google.com/document/d/1fnXlupH7lkOThfcBNztFod7ddWG2-BSjq598PfjYVys/edit?usp=drive_link)
+4. [Test Scenarios and Tets Cases](https://docs.google.com/spreadsheets/d/1AHWV_AJR5QWyoYelLIc_OIOO-FnF7jYR/edit?usp=drive_link&ouid=105267886432594241208&rtpof=true&sd=true)
+5. [Test Execution Report](https://docs.google.com/document/d/1DAoBeZT1oPYKD8eE96Qkzudj2Jq25UnRNaQsGzPtjEE/edit?usp=drive_link)
+6. [Bug Report](https://docs.google.com/spreadsheets/d/1SxHQCopCn9sxKwWhI4rFqyrrXu-QdUBpldXY68d3aRE/edit?usp=drive_link)
+7. [Bug Summary Report](https://docs.google.com/document/d/1DWc1EiT5k4TCSCFPD-SbtRWVr0NJjxrPhenQ0BBK3qA/edit?usp=drive_link)
 ---
 
 ## 🤖 ***AUTOMATION TESTING***
