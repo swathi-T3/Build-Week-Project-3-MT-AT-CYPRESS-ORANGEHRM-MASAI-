@@ -136,7 +136,7 @@ This project focuses on end-to-end testing of the OrangeHRM demo website, coveri
 
     📂 OrangeHRM-Cypress-Project
       │
-      ├── 📁 cypress
+      ├── 📁 cypres
       │   ├── 📁 e2e
       │   │   └── orangeHRMTest.cy.js
       │   │
